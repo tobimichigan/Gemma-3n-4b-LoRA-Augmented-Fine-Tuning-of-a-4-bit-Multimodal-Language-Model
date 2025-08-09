@@ -1,64 +1,3 @@
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YouTube Video Embed</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f5f5f5;
-        }
-        
-        .video-container {
-            background: white;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
-        
-        .video-wrapper {
-            position: relative;
-            padding-bottom: 56.25%; /* 16:9 aspect ratio */
-            height: 0;
-            overflow: hidden;
-            margin: 20px 0;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        }
-        
-        .video-wrapper iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            border: none;
-        }
-        
-        h1 {
-            color: #333;
-            margin-bottom: 10px;
-        }
-        
-        p {
-            color: #666;
-            margin-bottom: 20px;
-        }
-        
-        @media (max-width: 768px) {
-            body {
-                padding: 10px;
-            }
-            
-            .video-container {
-                padding: 15px;
-            }
-        }
-    </style>
-
-
 # Gemma-3n-4b-LoRA-Augmented-Fine-Tuning-of-a-4-bit-Multimodal-Language-Model
 Gemma-3n-4b- Academic papers-finetuning-inference: LoRA-Augmented Fine-Tuning of a 4-bit Multimodal Language Model on Scientific Literature
 
@@ -71,20 +10,6 @@ Gemma-3n-4b- Academic papers-finetuning-inference: LoRA-Augmented Fine-Tuning of
 <i>Keywords
 LoRA, 4-bit quantization, Gemma 3N, multimodal LLM, PDF parsing, PyPDF2, PEFT, early stopping, memory efficiency, reproducible dependencies</i></p>
 
-
- <div class="video-container">
-        <h1> YouTube Video Presentation</h1>
-        <p>Gemma-3n-4b- Academic papers-finetuning-inference: LoRA-Augmented Fine-Tuning of a 4-bit Multimodal Language Model on Scientific Literature:</p>
-        
-        <div class="video-wrapper">
-            <iframe 
-                src="https://www.youtube.com/embed/KhOxR4p1r4s"
-                title="YouTube video player"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen>
-            </iframe>
-        </div>
-    </div>
 
 <h2 align="left"> 
   Fig. 1.4. 	Showing Bar Chart Word Count for Research Papers, Training and Validation loss Curves & Model Accuracy Across Different Datasets		
