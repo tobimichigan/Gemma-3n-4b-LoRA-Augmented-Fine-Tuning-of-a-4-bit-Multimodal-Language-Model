@@ -1,7 +1,7 @@
 # Gemma-3n-4b-LoRA-Augmented-Fine-Tuning-of-a-4-bit-Multimodal-Language-Model
 Gemma-3n-4b- Academic papers-finetuning-inference: LoRA-Augmented Fine-Tuning of a 4-bit Multimodal Language Model on Scientific Literature
 
-<p>Full Paper/Blog Link: <a href="https://handsonlabs.org/gemma-3n-4b-academic-papers-finetuning-inference-lora-augmented-fine-tuning-of-a-4-bit-multimodal-language-model-on-scientific-literature/?v=c6a82504ceeb" target ="_blabk">Article Publication</a> </p>
+<p>Full Paper/Blog Link: <a href="https://handsonlabs.org/gemma-3n-4b-academic-papers-finetuning-inference-lora-augmented-fine-tuning-of-a-4-bit-multimodal-language-model-on-scientific-literature/?v=c6a82504ceeb" target ="_blank">Article Publication</a> </p>
 
 <p align="center"><strong>ABSTRACT</strong></p>
 
@@ -28,7 +28,7 @@ LoRA, 4-bit quantization, Gemma 3N, multimodal LLM, PDF parsing, PyPDF2, PEFT, e
 
 
 <h2 align="left"> 
-  Fig. 1.1. First set of Word Cloud of Scientific Literature publications
+  Fig. 1.1 Second set of Word Cloud of Scientific Literature publications
   <br>
  <a href="https://handsonlabs.org/gemma-3n-4b-academic-papers-finetuning-inference-lora-augmented-fine-tuning-of-a-4-bit-multimodal-language-model-on-scientific-literature/?v=c6a82504ceeb"><img src="https://raw.githubusercontent.com/tobimichigan/Gemma-3n-4b-LoRA-Augmented-Fine-Tuning-of-a-4-bit-Multimodal-Language-Model/refs/heads/main/Fig.%201.1.png" alt="Fig. 1.1 First set of Word Cloud of Scientific Literature publications" width="1020"></a> 
   <br> 
