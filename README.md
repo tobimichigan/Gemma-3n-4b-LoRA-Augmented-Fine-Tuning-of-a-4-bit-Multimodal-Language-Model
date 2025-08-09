@@ -1,7 +1,7 @@
 # Gemma-3n-4b-LoRA-Augmented-Fine-Tuning-of-a-4-bit-Multimodal-Language-Model
 Gemma-3n-4b- Academic papers-finetuning-inference: LoRA-Augmented Fine-Tuning of a 4-bit Multimodal Language Model on Scientific Literature
 
-<p>Full Paper/Blog Link: <a href="https://handsonlabs.org/gemma-3n-4b-academic-papers-finetuning-inference-lora-augmented-fine-tuning-of-a-4-bit-multimodal-language-model-on-scientific-literature/?v=c6a82504ceeb" target ="__blank">Article Publication</a> </p>
+<p>Full Paper/Blog Link: <a href="https://handsonlabs.org/gemma-3n-4b-academic-papers-finetuning-inference-lora-augmented-fine-tuning-of-a-4-bit-multimodal-language-model-on-scientific-literature/?v=c6a82504ceeb" target ="_blank">Article Publication</a> </p>
 
 <p align="center"><strong>ABSTRACT</strong></p>
 
